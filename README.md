@@ -1,6 +1,6 @@
-## Aplicacion de clima, curso node
+## Weather App
 
-recuerde ejecutar
+remember to execute
 
 ````````````
 npm install
